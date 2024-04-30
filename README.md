@@ -8,6 +8,7 @@ Installation: Detailed installation instructions are provided in the project doc
 Usage: Users can interact with the system through a web-based interface or API endpoints. Input relevant information and receive personalized medication recommendations.
 
 Future Improvements:
+
 Enhanced Personalization: Incorporate additional patient-specific factors such as genetic information or lifestyle choices to further refine recommendations.
 Real-time Monitoring: Implement real-time monitoring of patient health data to adapt recommendations based on dynamic changes in health status.
 Integration with Electronic Health Records (EHR): Integrate with existing EHR systems to streamline data input and improve interoperability with healthcare workflows.
@@ -15,9 +16,11 @@ Natural Language Processing (NLP): Integrate NLP techniques to extract insights 
 Clinical Trials Integration: Incorporate information about ongoing clinical trials and emerging treatments to provide up-to-date recommendations based on the latest research.
 
 Contributing:
+
 Contributions from the open-source community are welcome. Interested developers can contribute to code improvements, data validation, or documentation enhancements via GitHub repositories.
 
 License:
+
 The project is licensed under an open-source license (e.g., MIT License), allowing for free use, modification, and distribution of the software.
 Contact Information:
 For questions, feedback, or collaboration opportunities, contact the project maintainers via email or through GitHub repositories.
